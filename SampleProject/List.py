@@ -117,6 +117,7 @@ for i,j in enumerate(L):
     if j%2==0:
         res.append(j)
 print(res)
+print(respond)
 
 
 
